@@ -26,3 +26,11 @@
   d. Game will not be started until both the players have entered their
   number to hunt.
   e. Only integers are entered by the players.
+  
+4. Execution: 
+    a. Go to the Code_Files folder in cmd. 
+    b. Type --> "make" without the quotes and press enter. Type ./player1.out <any number> press enter. 
+    ( eg. ./player1.out 23 this 23 is the original number of player1)
+    c. Open one more terminal in the same folder. 
+    d. Type ./player2.out <any number> press enter.
+    e. Start guessing number of both the players.
